@@ -1,0 +1,32 @@
+nohup: ignoring input
+
+> LabSeven@0.0.0 start /home/bitnami/LabSeven
+> node ./bin/www
+
+[0mGET / [36m304 [0m8.664 ms - -[0m
+In getcity route
+[0mGET /getcity?q=p [32m200 [0m5.940 ms - 2[0m
+In getcity route
+[0mGET /getcity?q= [32m200 [0m4.478 ms - 5080[0m
+In getcity route
+[0mGET /getcity?q=P [36m304 [0m0.881 ms - -[0m
+In getcity route
+[0mGET /getcity?q=P [36m304 [0m0.574 ms - -[0m
+In getcity route
+[0mGET /getcity?q=Pr [36m304 [0m0.711 ms - -[0m
+In getcity route
+[0mGET /getcity?q=Pro [36m304 [0m0.688 ms - -[0m
+In getcity route
+[0mGET /getcity?q=Prov [32m200 [0m0.746 ms - 40[0m
+In getcity route
+[0mGET /getcity?q=Provo [36m304 [0m0.665 ms - -[0m
+In getcity route
+[0mGET /getcity?q=Prov [36m304 [0m0.660 ms - -[0m
+In getcity route
+[0mGET /getcity?q=Pro [36m304 [0m1.054 ms - -[0m
+In getcity route
+[0mGET /getcity?q=Pr [36m304 [0m2.049 ms - -[0m
+In getcity route
+[0mGET /getcity?q=P [36m304 [0m1.192 ms - -[0m
+In getcity route
+[0mGET /getcity?q= [36m304 [0m2.054 ms - -[0m
